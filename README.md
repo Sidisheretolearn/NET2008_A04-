@@ -15,3 +15,6 @@ input 5 -> --B--n--
 and so on (until row 8)
 
 at the end it will show you how many points each side will have. Tell you the winner and ask if you want to play again or quit
+
+
+Github link -> https://github.com/Sidisheretolearn/NET2008_A04-
